@@ -1,0 +1,43 @@
+      div {
+        background-color: rgb(222, 134, 76);
+      }
+
+      p {
+        font-size: 40px;
+      }
+
+      #blue {
+        background-color: rgb(156, 218, 211);
+      }
+
+      #white {
+        background-color: rgb(255, 255, 255);
+      }
+      ul {
+        
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.gallery div {
+  display: inline-block;
+}
